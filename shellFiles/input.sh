@@ -3,10 +3,10 @@
 echo "Hello $USER"
 
 echo -n "Adja meg a vezetéknevét: "
-read vnev
+read vnev;
 
 echo -n "Adja meg keresztnevét: "
-read knev
+read knev;
 
 echo "Köszönöm kedves $vnev $knev. Viszontlátásra!"
 
