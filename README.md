@@ -6,4 +6,4 @@
 
 ---
 
-#### | [hello.sh](shellFiles/hello.sh) | [input.sh](shellFiles/input.sh) | [runningProcesses.sh](shellFiles/runningProcesses.sh) |
+#### | [hello.sh](shellFiles/hello.sh) | [input.sh](shellFiles/input.sh) | [runningProcesses.sh](shellFiles/runningProcesses.sh) | [simpleCalculator.sh](shellFiles/simpleCalculator.sh) |
